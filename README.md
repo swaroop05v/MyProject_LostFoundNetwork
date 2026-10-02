@@ -35,9 +35,8 @@ A lost-and-found community network. Finders post items they have found and Owner
 | [2_Architectural_Diagram](2_Architectural_Diagram) | Architecture diagram (three-tier, MERN) with the component table, key flows and proposed technology stack |
 | [3_Screenshots_GitHub_and_Jira](3_Screenshots_GitHub_and_Jira) | GitHub repository creation screenshots, and Jira screenshots for the Scrum and Kanban projects |
 | [4_SRS_and_Work_Breakdown](4_SRS_and_Work_Breakdown) | Software Requirements Specification (IEEE 830 format) and the Work Breakdown Structure with the sprint plan |
-| 5_Copilot_Generated_Code | To be added |
-| 6_Software_Testing_Practice | To be added |
-
+| [5_Copilot_Generated_Code](5_Copilot_Generated_Code) | Code generated with GitHub Copilot for two parts of the project: a Haversine location-radius check (`matching_utils.js`, FR-001) and a claim-attempt tracker with a 24-hour lock (`claim_attempts.js`, NFR-001), with screenshots of each prompt and response |
+| [6_Software_Testing_Practice](6_Software_Testing_Practice) | Reserved for the software testing practice exercise; to be added |
 ## Jira projects
 
 | Project | Key | Purpose |
