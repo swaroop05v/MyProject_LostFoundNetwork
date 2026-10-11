@@ -9,8 +9,7 @@ Assigned repository: [SETAPESU26/59_rock_paper_scissor](https://github.com/SETAP
 | [59_rock_paper_scissor/](59_rock_paper_scissor) | Updated code |
 | [chat_history.docx](59_rock_paper_scissor/chat_history.docx) | Exported chat history with the LLM |
 
-Chat link: PASTE_YOUR_SHARE_LINK_HERE
-
+Chat link: https://claude.ai/share/016772a5-65c3-4861-b35e-590293ab3337
 ## Changes
 
 1. Fixed the inverted outcome bug in `determine_winner` (Rock beats Scissors, Scissors beats Paper, Paper beats Rock).
